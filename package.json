@@ -7,5 +7,17 @@
     "test": "test"
   },
   "author": "DK",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delta8Kilo/PortfolioSite.git"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.9.0",
+    "bootstrap": "4.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/Delta8Kilo/PortfolioSite/issues"
+  },
+  "homepage": "https://github.com/Delta8Kilo/PortfolioSite#readme"
 }
