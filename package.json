@@ -10,14 +10,14 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Delta8Kilo/PortfolioSite.git"
+    "url": "git+https://github.com/DanilKhrustov/PortfolioSite.git"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "5.9.0",
     "bootstrap": "4.3.1"
   },
   "bugs": {
-    "url": "https://github.com/Delta8Kilo/PortfolioSite/issues"
+    "url": "https://github.com/DanilKhrustov/PortfolioSite/issues"
   },
-  "homepage": "https://github.com/Delta8Kilo/PortfolioSite#readme"
+  "homepage": "https://github.com/DanilKhrustov/PortfolioSite#readme"
 }
